@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @superdanraven
-- 👀 I’m interested in surfing waves, running trails and playing D&D
-- 🌱 I’m currently learning Web Development and a bit of c
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Dan.
+- 👀 I’m interested in surfing waves, running trails and playing D&D.
+- 🌱 I’m currently learning Web Development and a bit of c.
+- 💞️ I’m not looking to collaborate just yet.
 - 📫 How to reach me ...
 
 <!---
